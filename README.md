@@ -18,7 +18,7 @@ If you use yarn then -Scarf- Shit analytics won't run after install.
 
 2. Run patcher which will change fix installation links to public gist that simply mock library and makes clear visible that is mocked.
 
-```
+```sh
 npx itssummernoscarfs
 ```
 
