@@ -1,0 +1,10 @@
+{
+  "name": "itssummernoscarfs",
+  "version": "1.0.0",
+  "description": "Disable Scarf analytics even if it opts-out by default.",
+  "main": "./bin/itssummernoscarfs.js",
+  "bin": "./bin/itssummernoscarfs.js",
+  "repository": "https://github.com/Kurzdor/itssummernoscarfs.git",
+  "author": "Kurzdor <pavloeksmidt@gmail.com>",
+  "license": "MIT"
+}
